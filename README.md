@@ -48,11 +48,11 @@ graph TB
     end
 
     subgraph "API Service"
-        API[REST API<br/>JSON + CSV]
+        API[REST API / JSON+CSV]
     end
 
     subgraph "Clients"
-        DASH[Dashboard (Vite)]
+        DASH[Dashboard - Vite]
         EXT[External Clients]
     end
 
