@@ -258,11 +258,3 @@ make dashboard-build
 make up
 make down
 ```
-
-## Docs
-
-- `docs/ARCHITECTURE.md`
-- `docs/DATA_MODEL.md`
-- `docs/API_CONTRACT.md`
-- `docs/OPERATIONS.md`
-
